@@ -45,7 +45,7 @@ with open('../2D_matpedia_extract_data/data/db.json') as f:
         
 
 
-start_index=3501
+start_index=1
 end_index=6500
 
 for x in range(start_index,end_index+1):
@@ -117,7 +117,7 @@ for x in range(start_index,end_index+1):
     plt.close()
     del x, y, bb, cc, dd, branches, ef, k, v, div, tag, bands_dict, filename_bands, name, BS_dir
 
-with open('extracted_data_3501_6500.json', 'w', encoding='utf-8') as f:
+with open('extracted_data_1_6500.json', 'w', encoding='utf-8') as f:
     json.dump(D, f, ensure_ascii=False, indent=4)
     
 
