@@ -78,7 +78,9 @@ fprintf('Fifth column shows the maximum predicted flatness\n');
 
 Overall_pred={mat_id pred' flat_div' flatness_score' max_flat'};
 fprintf('Out of %d materials analyzed, %d materials have flat bands',length(pred),length(find(pred==1)));
-% save ('Overall_prediction_ML_1_6500','Overall_pred');
+save ('Overall_prediction_ML_1_6500','Overall_pred');
+
+
 %% visualize the output and bands
 % Red box shows segments with predicted flat bands
 
