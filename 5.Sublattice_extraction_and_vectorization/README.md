@@ -11,3 +11,10 @@ This code does the following tasks:
 4. Strips the lattice into its flatband elemental sublattice.
 5. Calculates CrystalNNFingerprint module from matminer package to calculate 244 dimensional vector fingerprints.
 6. Saves the fingerprints into '244_fingerprint_reduced_lattice_DOS_only_flatmaterials.json' file.
+
+'244_fingerprint_reduced_lattice_DOS_only_flatmaterials.json' file need to be parsed into 3 csv files for the subsequent step.
+1. 'input_flat_materials_244.csv'
+2. 'input_indices_244.csv'
+3. 'sublattice_element_244.csv'
+
+
