@@ -13,7 +13,8 @@ This code does the following tasks:
 6. Create condensed tree plot
 7. Create phylogenetic tree plot
 
-HDBSCAN_244_DOS_minsize_7_minsamp_7_cond_tree.png
 
-HDBSCAN_244_DOS_minsize_7_minsamp_7_tsne.png
 
+![HDBSCAN_244_DOS_minsize_7_minsamp_7_cond_tree](https://user-images.githubusercontent.com/106304435/175698919-c512ab7b-032d-43df-a4ab-5fbc1a601215.png)
+
+![HDBSCAN_244_DOS_minsize_7_minsamp_7_tsne](https://user-images.githubusercontent.com/106304435/175698941-1f2863ce-340b-40d7-9489-d5d7299f9b11.png)
