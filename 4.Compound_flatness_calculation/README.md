@@ -1,4 +1,4 @@
-# Compound Flatness calculation
+# Compound Flatness score calculation
 
 Input: 
 1. json data file created at second module
