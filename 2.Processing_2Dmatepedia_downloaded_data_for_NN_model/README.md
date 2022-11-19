@@ -8,4 +8,4 @@ This module performs two tasks:
 
 The bandstructure look like below:
 
-![2dm-10](https://user-images.githubusercontent.com/106304435/175246588-0c677f43-fb6f-4a0d-9f31-bfe4a2649153.png)
+![2dm-10](https://user-images.githubusercontent.com/106304435/202851934-220332ca-85b7-4a22-943b-c468f9371e1e.png)
