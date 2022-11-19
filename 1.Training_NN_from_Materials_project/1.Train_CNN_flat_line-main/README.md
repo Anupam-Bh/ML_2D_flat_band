@@ -1,7 +1,7 @@
-# Train_NN_flat_line
-Train a Feedforward NN model to identify flat horizontal lines in an image file using Matlab Patternnet.
+# Train_CNN_flat_line
+Train a CNN model to identify flat horizontal lines in an image file using Matlab.
 
-All MAT files are generated using the matlab code in the https://github.com/AnupamBiitd/Create_NN_input repo. 
+All MAT files are generated using matlab. 
 Files with tr1,tr2 and tr3 in the names signify creation of NN input for same bandstructure 3 times. It was done to reduce human error while selecting a flatband segment. 
 
 Skewness in the input data may be controlled by removing some negative examples in the 'skewness_reduction' block.
