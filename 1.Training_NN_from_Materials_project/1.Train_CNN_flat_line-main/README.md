@@ -1,4 +1,4 @@
-# Train_2conv_2sigmoid_2fc_96_96
+# Train_2conv_2sigmoid_2fc_96_96_used.m
 Train a CNN model to identify flat horizontal lines in an image file using Matlab Deep Learning Toolbox.
 
 All MAT files are generated using matlab. 
