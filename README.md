@@ -1,5 +1,5 @@
 # AI_flatmat_2D
-This project predicts flatbands from bandstructures in 2Dmatpedia database (http://www.2dmatpedia.org) using a supervised ANN and identifies isostructural groups among flatband compounds using a hybrid clustering algorithm.
+This project predicts flatbands from bandstructures in 2Dmatpedia database (http://www.2dmatpedia.org) using a supervised CNN and identifies isostructural groups among flatband compounds using a hybrid clustering algorithm.
 
 The algorithms are divied into 6 modules (in 6 folders). They are numbered according to the sequence of application.
 
