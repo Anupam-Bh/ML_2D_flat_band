@@ -11,3 +11,5 @@ The modules are :
 4.Compound_flatness_calculation       
 5.Sublattice_extraction_and_vectorization       
 6.Clustering_module
+
+## A python only implementation in available at https://github.com/Anupam-Bh/CNN_Flatband_filter
